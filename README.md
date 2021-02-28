@@ -19,12 +19,12 @@
 	<title>Home | App, Web, Design, Animation &amp; Video | Eon Visual Media</title>
 	<meta name="description" content="Yorkshire&#039;s leading media production company. From websites &amp; apps to AR &amp; VR, we have the complete solution for your media needs!" />
 	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	<link rel="canonical" href="https://eon-media.com/" />
+	<link rel="canonical" href="https://eon.media/" />
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Home | App, Web, Design, Animation &amp; Video | Eon Visual Media" />
 	<meta property="og:description" content="Yorkshire&#039;s leading media production company. From websites &amp; apps to AR &amp; VR, we have the complete solution for your media needs!" />
-	<meta property="og:url" content="https://eon-media.com/" />
+	<meta property="og:url" content="https://eon.media/" />
 	<meta property="og:site_name" content="App, Web, Design, Animation &amp; Video | Eon Visual Media" />
 	<meta property="article:publisher" content="https://www.facebook.com/Eon-Visual-Media-Ltd-157890547587527" />
 	<meta property="article:modified_time" content="2020-10-20T12:38:56+00:00" />
@@ -79,15 +79,10 @@ img.emoji {
 <meta name="msapplication-TileImage" content="https://eon-media.com/app/uploads/2019/10/cropped-siteidentity-2-270x270.png" />
 </head>
 <body class="home page-template-default page page-id-5 wp-embed-responsive app-data index-data singular-data page-data page-5-data page-home-data front-page-data">
-<!-- Google Tag Manager (noscript) -->
-<noscript>
-  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TMP8Q3" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) -->
+
 <script type="text/javascript" src="https://secure.navy9gear.com/js/202221.js"></script>
 <!-- Tracking Code -->
-<noscript>
-  <img alt="" src="https://secure.navy9gear.com/202221.png?trk_user=202221&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled" height="0px" width="0px" style="display:none;"/>
+
 </noscript>
 <!-- End Tracking Code -->
 
