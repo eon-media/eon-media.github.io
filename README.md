@@ -73,10 +73,7 @@ img.emoji {
 <body class="home page-template-default page page-id-5 wp-embed-responsive app-data index-data singular-data page-data page-5-data page-home-data front-page-data">
 
 <script type="text/javascript" src="https://secure.navy9gear.com/js/202221.js"></script>
-<!-- Tracking Code -->
 
-</noscript>
-<!-- End Tracking Code -->
 
 <header class="main  background-image  ">
       <video class="background-video" poster="https://eon-media.com/app/uploads/2019/10/home-video-bg-9.jpg" src="https://eon-media.com/app/uploads/2019/10/home-video-bg-9.mp4" playsinline autoplay muted loop></video>
